@@ -1,4 +1,4 @@
-# Curso de POO y Algoritmos con Python
+# Curso de POO y Algoritmos con Python - Platzi
 
 [Link del curso!](https://platzi.com/cursos/poo-python/)
 
