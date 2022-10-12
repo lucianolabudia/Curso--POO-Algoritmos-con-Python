@@ -8,6 +8,7 @@
 * Lo que aprenderás sobre programación orientada a objetos y algoritmos con Python
 * Programación Orientada a Objetos
 * Tipos de datos abstractos y clases, Instancias
+* Decomposición
 
 ### Complejidad algorítmica
 
