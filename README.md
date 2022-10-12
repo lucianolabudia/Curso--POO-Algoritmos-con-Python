@@ -5,6 +5,7 @@
 ## Temario y recursos del Curso de POO y Algoritmos con Python
 
 ### Programación Orientada a Objetos
+* Lo que aprenderás sobre programación orientada a objetos y algoritmos con Python
 
 ### Complejidad algorítmica
 
