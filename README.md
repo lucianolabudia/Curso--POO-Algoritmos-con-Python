@@ -10,8 +10,11 @@
 * Tipos de datos abstractos y clases, Instancias
 * Decomposición
 * Abstracción
+* Funciones: base de los decorados
+* Setters, getters y decorador property
 * Encapsulación, getters and setters
 * Herencia
+* Polimorfismo
 
 ### Complejidad algorítmica
 
