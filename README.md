@@ -9,6 +9,7 @@
 * Programación Orientada a Objetos
 * Tipos de datos abstractos y clases, Instancias
 * Decomposición
+* Abstracción
 
 ### Complejidad algorítmica
 
