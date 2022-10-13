@@ -11,6 +11,7 @@
 * Decomposición
 * Abstracción
 * Encapsulación, getters and setters
+* Herencia
 
 ### Complejidad algorítmica
 
