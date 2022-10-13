@@ -10,6 +10,7 @@
 * Tipos de datos abstractos y clases, Instancias
 * Decomposición
 * Abstracción
+* Encapsulación, getters and setters
 
 ### Complejidad algorítmica
 
