@@ -18,8 +18,12 @@
 
 ### Complejidad algorítmica
 * Introducción a la complejidad algorítmica
+* Conteo abstracto de operación
+* Notación asintótica
+* Clases de complejidad algorítmica
 
 ### Algoritmos de búsqueda y ordenación
+* Búsqueda lineal
 
 ### Ambientes virtuales
 
