@@ -25,6 +25,7 @@
 ### Algoritmos de búsqueda y ordenación
 * Búsqueda lineal
 * Búsqueda binaria
+* Ordenamiento de burbuja
 
 ### Ambientes virtuales
 
