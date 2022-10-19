@@ -27,6 +27,7 @@
 * Búsqueda binaria
 * Ordenamiento de burbuja
 * Ordenamiento por inserción
+* Ordenamiento por mezcla
 
 ### Ambientes virtuales
 
