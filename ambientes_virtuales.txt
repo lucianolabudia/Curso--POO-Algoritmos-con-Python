@@ -1,0 +1,32 @@
+AMBIENTES VIRTUALES
+
+- Permiten aislar el ambiente para poder instalar diversas versiones de paquetes.
+
+- A partir de python 3 se incluye en la libreria estandar en el modulo venv.
+
+- Ningun ingeniero profesional de Python trabaja sin ellos.
+
+################################
+
+PIP
+
+- Permite descargar paquetes de terceros para utilizar en nuestro programa.
+
+- Permite compartir nuestros paquetes con terceros.
+
+- Permite especificar la version del paquete que necesitamos.
+
+################################
+
+Para windows 10 puede usarce estos comandos, ya que el tutorial fue hecho en otro sistema operativo.
+
+mkdir graficado
+cd graficado/
+python -m venv env
+
+env\Scripts\activate.bat
+pip install bokeh(libreria)
+
+Nota: NUNCA SE DEBE INSTALAR PAQUETES DE FORMA GLOBAL, SIEMPRE SE INSTALAN
+    ADENTRO DE UN AMBIENTE VIRTUAL.
+

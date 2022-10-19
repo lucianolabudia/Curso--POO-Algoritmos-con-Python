@@ -30,6 +30,7 @@
 * Ordenamiento por mezcla
 
 ### Ambientes virtuales
+* Ambientes virtuales
 
 ### Graficado
 
