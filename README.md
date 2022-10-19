@@ -33,5 +33,8 @@
 * Ambientes virtuales
 
 ### Graficado
+* ¿Por qué graficar?
+* Graficado simple 
+** [Libreria Bokeh](https://docs.bokeh.org/en/latest/index.html)
 
 ### Algoritmos de optimización
